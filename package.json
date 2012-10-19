@@ -1,0 +1,14 @@
+{
+  "name": "tiger",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+    "async": "0.1.x",
+    "express": "3.x",
+    "dustjs-linkedin": "1.1.x",
+    "consolidate": "0.4.x"
+  }
+}
