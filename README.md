@@ -1,5 +1,18 @@
-tiger
-=====
+Project: Tiger
+==============
 
-hello world
-Hi 
+
+Models
+------
+* Event
+* Listing
+* Ticket
+
+Views
+-----
+* EventView
+* ListingView
+* TicketView
+
+Controllers
+-----------
